@@ -1,0 +1,18 @@
+body{
+    background-color: darkred;
+    width: 100%;
+    margin: auto;
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.modo{ 
+color:darkgrey
+}
